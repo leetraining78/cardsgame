@@ -11,3 +11,9 @@ Name - Kings Spades
 Value - 12
  
 Card.shuffle()
+
+CSS
+BlackCard
+Hover: background: Black
+RedCard
+Hover:blackgrond:Red
