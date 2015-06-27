@@ -1,0 +1,13 @@
+Playing cards - 13 * 4 + joker cards
+ 
+Colors - Red and Black
+ 
+Suits -
+ 
+Card
+Color - Black
+Suite - Spade
+Name - Kings Spades
+Value - 12
+ 
+Card.shuffle()
